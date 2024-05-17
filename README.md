@@ -116,3 +116,8 @@ Make sure you have the following software installed:
 
 - **Simulation Video**
   [![Watch Simulation](Working/Simulation_of_Arm.mp4)]
+
+## License
+
+This project is licensed under the All Rights Reserved License - see the [LICENSE](LICENSE) file for details.
+
